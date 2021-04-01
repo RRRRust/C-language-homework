@@ -1,4 +1,4 @@
-//十进制转换为其它进制
+//十进制转换为其它进制，printf已解释部分
 #include <stdio.h>
 int main()
 {
